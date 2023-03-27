@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ke_halaman_kedua">Ke Halaman Kedua</string>
+    <string name="ke_halaman_ketiga">Ke Halaman Ketiga</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nama">Nama</string>
+    <string name="confirm_pasword">Confirm Pasword</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+</resources>
